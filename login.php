@@ -19,7 +19,7 @@
 		</div>
 		<div>
 			<label><font color="black" size="4"><b>Senha:</b></font></label>
-			<input type="text" name="txt_usuario" placeholder="*****" required="">
+			<input type="text" name="txt_senha" placeholder="*****" required="">
 		</div>
 		<br>
 		<div>
